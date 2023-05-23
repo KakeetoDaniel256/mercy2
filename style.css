@@ -1,0 +1,95 @@
+h1 {
+    color:darkblue;
+    opacity: 0.9;
+    border-image-width: 0fr;
+    text-align: center;
+}
+header {
+    color: black;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 1;
+    text-align: center;
+    font-weight:900;
+    cursor: col-resize;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: brown
+}
+form {
+    background-color: blue;
+    background-size: initial;
+    text-align: center;
+    text-shadow: brown;
+    border-radius: 19px 40px;
+
+}
+video {
+    display: block;
+    margin: auto;
+    frame
+  }
+h2 { 
+    color:blue;
+    opacity: 0.7;
+    text-align: center;
+}
+body{
+    background-size:cover;
+    background-repeat:repeat-x;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(155, 212, 143);
+}
+
+audio {
+    color:blue;
+}
+p {
+    color:black;
+    opacity: 0.8;
+    text-align:center ;
+    font-weight: bold;
+    
+}
+html,body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    font: display 90px;
+}
+::backdrop {
+    text-shadow: 0in;
+}
+background-color {
+    color:antiquewhites;
+}
+h3 {
+    color:magenta;
+    text-align: center;
+}
+header {
+    color:rgb(70, 14, 75);
+    font-size:x-large;
+}
+img {
+    align-content: center;
+}
+button {
+    color: green;
+    font-weight:bold;
+    display:inline-block;
+    font-size: 20px;
+    font-family:default;
+    padding: 20px,30px;
+    cursor: pointer;
+    border:none;
+    background-color:aqua;
+    border-radius: 5px 25px;
+    
+
+}
